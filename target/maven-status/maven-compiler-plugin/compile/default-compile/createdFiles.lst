@@ -1,0 +1,6 @@
+com\w3schools\qa\base\TestBase.class
+com\w3schools\qa\pages\LearnHtmlPage.class
+com\w3schools\qa\pages\PaidCoursesPage.class
+com\w3schools\qa\util\TestUtil.class
+com\w3schools\qa\pages\LoginPage.class
+com\w3schools\qa\pages\HomePage.class
