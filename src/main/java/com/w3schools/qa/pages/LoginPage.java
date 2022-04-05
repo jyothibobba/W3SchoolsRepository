@@ -8,6 +8,8 @@ import com.w3schools.qa.base.TestBase;
 
 public class LoginPage extends TestBase {
 
+	//login using email id
+	
 	@FindBy(id = "modalusername")
 	WebElement username;
 
